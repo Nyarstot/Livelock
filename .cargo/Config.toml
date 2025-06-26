@@ -1,0 +1,3 @@
+[build]
+rustc = "rustc"
+target-dir = "build"
